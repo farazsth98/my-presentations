@@ -1,6 +1,6 @@
 Challenge environment (Important!):
-Ubuntu 18.04
-Libc-2.27
+* Ubuntu 18.04
+* Libc-2.27
 
 Format strings: http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html
 
